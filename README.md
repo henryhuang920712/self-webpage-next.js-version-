@@ -28,4 +28,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 -> The hardest work of me is the editable schedules under "My-Calendar"!
 
+-> I connect my 111-2 calendar to mongodb database, but it seems to be timeless for me to create the schedules in other semesters. 
+
 Thanks for Reading this, appreciate your hard work ~ 
