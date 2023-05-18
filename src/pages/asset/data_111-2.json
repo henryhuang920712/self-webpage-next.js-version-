@@ -1,0 +1,112 @@
+[
+    {
+        "course": "作業研究",
+        "classroom": "管二201",
+        "time": {
+            "Mon": [
+                2,
+                3,
+                4
+            ]
+        },
+        "instructor": "孔令傑"
+    },
+    {
+        "course": "投資學",
+        "classroom": "管二101",
+        "time": {
+            "Fri": [
+                7,
+                8,
+                9
+            ]
+        },
+        "instructor": "朴寶卿"
+    },
+    {
+        "course": "日文二下",
+        "classroom": "共同202",
+        "time": {
+            "Wed": [
+                2,
+                3,
+                4
+            ]
+        },
+        "instructor": "許惠晴"
+    },
+    {
+        "course": "德文一下",
+        "classroom": "共同203",
+        "time": {
+            "Wed": [
+                5,
+                6
+            ],
+            "Fri": [
+                5,
+                6
+            ]
+        },
+        "instructor": "拉貝明契"
+    },
+    {
+        "course": "中級會計學下",
+        "classroom": "管二201",
+        "time": {
+            "Tue": [
+                2,
+                3,
+                4
+            ]
+        },
+        "instructor": "王全三"
+    },
+    {
+        "course": "管理數學",
+        "classroom": "管一101",
+        "time": {
+            "Thu": [
+                2,
+                3,
+                4
+            ]
+        },
+        "instructor": "李家岩"
+    },
+    {
+        "course": "資訊管理導論",
+        "classroom": "管二201",
+        "time": {
+            "Mon": [
+                7,
+                8,
+                9
+            ]
+        },
+        "instructor": "彭志宏"
+    },
+    {
+        "course": "Web App開發",
+        "classroom": "管一104",
+        "time": {
+            "Wed": [
+                7,
+                8,
+                9
+            ]
+        },
+        "instructor": "何承遠"
+    },
+    {
+        "course": " 文化思想傳統對現代經濟與社會發展的影響",
+        "classroom": "博雅202",
+        "time": {
+            "Thu": [
+                8,
+                9
+            ]
+        },
+        "instructor": "梁明義"
+    }
+]
